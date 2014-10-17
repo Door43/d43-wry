@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wry:home|Door43 (wry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wry|d43-wry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wry/archive/master.zip|d43-wry.zip]]
+
+**Recent Changes**
+{{changes>ns = wry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wry|Ethnologue data]]
+
